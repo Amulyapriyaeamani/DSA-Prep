@@ -4,7 +4,7 @@ My structured DSA prep journey for interviews – LeetCode, GFG, patterns
 
 Welcome to my structured Data Structures & Algorithms (DSA) preparation repository.  
 I’m solving 500+ problems using Python across LeetCode, GeeksforGeeks, and other platforms, aiming to master problem-solving and crack top product-based companies 💻🚀
-
+Here I will upload some of the basic and important problems i have practiced during my prep.
 ---
 
 ## 📅 Weekly Plan & Roadmap
