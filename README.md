@@ -1,23 +1,37 @@
-# DSA-Prep
-My structured DSA prep journey for interviews – LeetCode, GFG, patterns
-# 🧠 DSA Prep Journey – Python | LeetCode + GFG
+# 🧠 DSA From Scratch – 4 Month Prep Journey 🚀
 
-Welcome to my structured Data Structures & Algorithms (DSA) preparation repository.  
-I’m solving 500+ problems using Python across LeetCode, GeeksforGeeks, and other platforms, aiming to master problem-solving and crack top product-based companies 💻🚀
-Here I will upload some of the basic and important problems i have practiced during my prep.
+Welcome to my curated journey of mastering **Data Structures & Algorithms** from scratch, with the goal of cracking **Top-tier tech interviews**. This repository contains well-organized, clean Python implementations of DSA problems, categorized by pattern and topic.
+
 ---
 
-## 📅 Weekly Plan & Roadmap
+## 📅 Plan: July 2025 – October 2025  
+> Goal: Solve **500+ quality problems**, 6–10 per day, with deep understanding of each major pattern.
 
-| Week | Topics Covered                        |
-|------|----------------------------------------|
-| 1    | Arrays, Strings, Hashing, Sliding Window |
-| 2    | Prefix Sum, Two Pointers, Recursion      |
-| 3    | Sorting, Searching, Binary Search        |
-| 4    | Linked List, Stack, Queue                |
-| 5    | Trees, Heaps                             |
-| 6    | Graphs, Tries, Backtracking              |
-| 7+   | Dynamic Programming, Greedy, Patterns    |
+---
+
+## ✅ Topics Covered So Far
+
+### 🔢 01. Math & Number Theory
+- ✅ GCD (Euclidean Algorithm – Iterative & Recursive)
+- ✅ LCM using GCD
+- ✅ Armstrong Number Check
+- ✅ Prime Check
+- ✅ Reverse Number
+- ✅ Count Digits that Divide the Number
+
+### 📊 02. Array Basics
+- ✅ Reverse an array using Two Pointers
+- ✅ Count occurrences of a number
+- ✅ Remove duplicates from sorted array
+- ✅ Check if array is a palindrome
+
+### 🔁 03. Two Pointers
+- ✅ Two Sum in a sorted array
+- ✅ Three Sum (Leetcode 15)
+- ✅ Remove duplicates in-place
+- ✅ Container With Most Water (Leetcode 11)
+- ✅ Duplicate Zeroes (Leetcode 1089)
+- ✅ Union & Intersection of Two Sorted Arrays
 
 ---
 
